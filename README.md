@@ -1,37 +1,68 @@
-# React-Portfolio-Tutorial
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Learn How To Design and Build a React Portfolio FROM SCRATCH!!!
+## Available Scripts
 
-A lot of skilled Developers can easily code a portfolio with their eyes closed once they learn the syntax.   Here is my question.  How many developers do you know that can actually design AND develop a portfolio from scratch?  Such a thing is possible with the proper planning.  Here you will learn the skills needed to perform such a task.
+In the project directory, you can run:
 
-# Day 1 - Planning
+### `yarn start`
 
-## Step 1. Find Some Inspiration
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Not all of us can design a masterpiece out of the blue.  That's why it's good to seek out some inspiration.  Click [here](https://html5up.net/) to look at a few that you might want to build.  You don't have to copy them in exact detail, just get an idea of what you want to build.  
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-## Step 2. Make A Wireframe
+### `yarn test`
 
-The first step to building anything whether it be a website, an app, or even building a house is to start with a blueprint.  In terms of website building, this is called a wireframe.  This can be done on either a good old fashioned sketch pad or you can Click on this [link](https://app.diagrams.net/) to sketch it digitally.  Click on the "Create A New Diagram" button. Use the shapes on the left to design the different sections of your site. This will be demonstrated during lecture. 
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Step 3. Choose Your Assets
+### `yarn build`
 
-Now it's time to build your asset folder.  On your desktop, create a new folder called "assets."  This will house all of your screenshots and images you will be using in your site.  Go through about 4 - 6 projects, you've done in the past, take screen shots of them, and add them to your assets folder.  Also include an avatar for yourself and a cover image.  You can find some cool images at [unsplash.com](https://unsplash.com/) and [pexels.com](https://www.pexels.com/)
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Step 4.  Fonts and Theme Colors
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-What would your site look like without a cool font and some nice colors.  As you already know, free fonts can be found at [GoogleFonts](https://fonts.google.com/) 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Choosing theme colors is probably the hardest part of designing because there is JUST SO MUCH TO CHOOSE FROM!!!  Here is a secret to making it easy on yourself.  Choose the image you use for the hero section of your site, and choose 2 colors from the image, if you don't know the hex color code for the color you want, here is a fabulous tool to aid you in that [html-color-codes](https://html-color-codes.info/colors-from-image/)
+### `yarn eject`
 
-### Here is how you use it
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-1. Click on the blue button called "upload image" on the left.
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-2. Choose the image you will use for your background image (if you are using one) 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-3. Hover over the color, you want to use, in the image and click on it.  The color code will display right below the image. Choose TWO COLORS for your theme.  At best three.  More than that will make your design too loud.  You also want your colors to be neutral and easy on the eyes. Do not use bold colors.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### Well that about covers the design portion of your portfolio.
+## Learn More
 
-You are now ready to start coding.  Part 2/Day 2 of this will be posted tomorrow.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `yarn build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
